@@ -1,6 +1,6 @@
 <div align="center">
 
-# XAU Dynamics
+# XAU Dynamics 
 
 **Agentic AI infrastructure for macroeconomic sentiment intelligence and systematic XAU/USD execution.**
 
